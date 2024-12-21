@@ -1,0 +1,21 @@
+
+@media (max-width: 570px) {
+    h1 {
+       font-size: 40px;
+       margin: 20px 0;
+    }
+
+    header input {
+        font-size: 20px;
+        height: 80px;
+    }
+
+    header .add {
+        font-size: 10px;
+        height: 80px;
+    }
+
+    #areaLista {
+        width: 70%;
+    }
+}
